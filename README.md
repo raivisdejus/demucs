@@ -4,6 +4,11 @@
 ![linter badge](https://github.com/facebookresearch/demucs/workflows/linter/badge.svg)
 
 
+## Changes in this repository
+
+`torchaudio` max version limitation has been removed. Code is working for inference. Training is not tested yet.
+
+
 **This is the officially maintained Demucs** now that I (Alexandre Défossez) have left Meta to join [Kyutai](https://twitter.com/kyutai_labs).
 Note that I'm not actively working on Demucs anymore, so expect slow replies and no new feature for now.
 
